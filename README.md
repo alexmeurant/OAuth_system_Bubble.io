@@ -19,6 +19,9 @@ In this project, I designed 6 pages and edit their workflows:
 
 ![Welcome](https://user-images.githubusercontent.com/18213190/229466413-fe780124-1dc0-4772-9260-6cdf9117b9ec.jpg)
 
-- **Update password** page when logged in order to change it.
+- **Update password** page when logged in order to change it:
+
+![Update pw](https://user-images.githubusercontent.com/18213190/229463855-3ad95a06-dda1-4a31-8408-499865556bea.jpg)
+
 
 This project gave me an excellent overview of Bubble to begin with. I will now carry out even more challenging projects :rocket:
