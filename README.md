@@ -29,5 +29,6 @@ In this project, I designed 6 pages and edit their workflows:
 
 ![Update pw](https://user-images.githubusercontent.com/18213190/229463855-3ad95a06-dda1-4a31-8408-499865556bea.jpg)
 
+![Update pw workflow](https://user-images.githubusercontent.com/18213190/229475940-7fc261c8-2327-4682-b895-242bd750bfa1.jpg)
 
 This project gave me an excellent overview of Bubble to begin with. I will now carry out even more challenging projects :rocket:
