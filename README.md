@@ -7,7 +7,10 @@ In this project, I designed 4 pages and edit their workflows:
 
 ![Sign Up](https://user-images.githubusercontent.com/18213190/229458538-b0e2f511-fb1b-49f2-bf0b-80390e225385.jpg)
 
-- **Log In** page checking the email and password fields.
+- **Log In** page checking the email and password fields:
+
+![Log In](https://user-images.githubusercontent.com/18213190/229463577-fe470540-174e-4a02-b3b8-645903ff667a.jpg)
+
 - **Forgot password** page that send an email to reset it.
 - **Welcome page** when logged displaying the user's name dynamically.
 - **Update password** page when logged in order to change it.
