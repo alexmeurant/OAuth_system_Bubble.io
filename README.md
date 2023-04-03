@@ -9,7 +9,7 @@ In this project, I designed 6 pages and edit their workflows:
 
 - **Log In** page checking the email and password fields:
 
-![Log In](https://user-images.githubusercontent.com/18213190/229463577-fe470540-174e-4a02-b3b8-645903ff667a.jpg)
+![Log In](https://user-images.githubusercontent.com/18213190/229463577-fe470540-174e-4a02-b3b8-645903ff667a.jpg)![Log In workflow](https://user-images.githubusercontent.com/18213190/229472780-16426e7e-a673-47fa-a490-be1f7e1068b4.jpg)
 
 - **Forgot password** page that send an email to reset it:
 
