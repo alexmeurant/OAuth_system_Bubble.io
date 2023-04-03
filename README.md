@@ -1,7 +1,7 @@
 # OAuth_system_Bubble.io
 My first projet with Bubble: an **OAuth Signup and Login system** from scratch.
 
-In this project, I designed 4 pages and edit their workflows:
+In this project, I designed 6 pages and edit their workflows:
 
 - **Sign Up** page with a name field, an email field and a password/confirmation password fields with a dynamic strength indicator:
 
@@ -15,7 +15,10 @@ In this project, I designed 4 pages and edit their workflows:
 
 ![Forgot pw](https://user-images.githubusercontent.com/18213190/229463673-3c7f8708-fa26-436e-8c45-549b0c8d84ee.jpg) ![reset pw](https://user-images.githubusercontent.com/18213190/229463749-c48f19f8-ee9c-4744-8f65-80548a1f24e2.jpg)
 
-- **Welcome page** when logged displaying the user's name dynamically.
+- **Welcome page** when logged displaying the user's name dynamically:
+
+![Welcome](https://user-images.githubusercontent.com/18213190/229466413-fe780124-1dc0-4772-9260-6cdf9117b9ec.jpg)
+
 - **Update password** page when logged in order to change it.
 
 This project gave me an excellent overview of Bubble to begin with. I will now carry out even more challenging projects :rocket:
