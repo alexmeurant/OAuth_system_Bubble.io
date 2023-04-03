@@ -5,7 +5,7 @@ In this project, I designed 6 pages and edit their workflows:
 
 - **Sign Up** page with a name field, an email field and a password/confirmation password fields with a dynamic strength indicator:
 
-![Sign Up](https://user-images.githubusercontent.com/18213190/229458538-b0e2f511-fb1b-49f2-bf0b-80390e225385.jpg)
+![Sign Up](https://user-images.githubusercontent.com/18213190/229458538-b0e2f511-fb1b-49f2-bf0b-80390e225385.jpg)![Sign up workflow](https://user-images.githubusercontent.com/18213190/229470828-e30c506c-bd92-4e1e-9c5c-586f4dcd7aef.jpg)
 
 - **Log In** page checking the email and password fields:
 
