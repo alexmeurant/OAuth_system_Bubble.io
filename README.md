@@ -13,7 +13,13 @@ In this project, I designed 6 pages and edit their workflows:
 
 - **Forgot password** page that send an email to reset it:
 
-![Forgot pw](https://user-images.githubusercontent.com/18213190/229463673-3c7f8708-fa26-436e-8c45-549b0c8d84ee.jpg) ![reset pw](https://user-images.githubusercontent.com/18213190/229463749-c48f19f8-ee9c-4744-8f65-80548a1f24e2.jpg)
+![Forgot pw](https://user-images.githubusercontent.com/18213190/229463673-3c7f8708-fa26-436e-8c45-549b0c8d84ee.jpg)
+
+![Forgot pw workflow](https://user-images.githubusercontent.com/18213190/229473103-1678982e-1aae-41c1-abf4-9456748348a4.jpg)
+
+![reset pw](https://user-images.githubusercontent.com/18213190/229463749-c48f19f8-ee9c-4744-8f65-80548a1f24e2.jpg)
+
+![Reset pw workflow](https://user-images.githubusercontent.com/18213190/229473158-8e3ba201-1cb4-4f78-afc2-dec22aae16cb.jpg)
 
 - **Welcome page** when logged displaying the user's name dynamically:
 
